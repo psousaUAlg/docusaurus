@@ -1,41 +1,18 @@
-# Website
+# TP3 - Criar um site
+Neste parte do TP pretende-se o desenvolvimento de um site que publicite a empresa, utilizando o ***Docusaurus*** e o ***Git***. 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A avaliação será baseada em duas componentes:
 
-### Installation
+**Git**
 
-```
-$ yarn
-```
+Ao longo das várias fases de desenvolvimento do site:
+* Será valorizada a quantidade e qualidade de commits,
+* ramos de acordo com o fluxo proposto pelo Git,
+* servidor remoto,
+* issue tracking,
+* múltiplos utilizadores a fazer commit, merges, etc.
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**Site**
+* Será valorizada a criatividade,
+* a completude,
+* a utilização das diversas tags markdown, etc.
