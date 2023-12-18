@@ -1,0 +1,8 @@
+{
+  "label": "Clientes",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Módulo de Gestão de Cliente"
+  }
+}
