@@ -18,3 +18,19 @@ from io_terminal import imprime_lista
 ```
 nome_ficheiro_lista_de_clientes = "lista_de_clientes.pk"
 ```
+***Novo Cliente:***
+```
+def cria_novo_cliente():
+    """Função para registar os dados de um novo cliente
+
+    :return: dicionario com o novo cliente, {"nome": <<nome>>, "nif": <<nif>>, ...}
+    """
+    
+    nome = input("nome? ")
+    nif = input("nif? ").upper()
+    ...
+    cliente = {"nome": nome,
+               "nif": nif}
+
+    return cliente
+```
