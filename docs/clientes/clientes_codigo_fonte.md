@@ -6,6 +6,8 @@ sidebar_position: 6
 
 ---
 > Este módulo contém as rotinas e funções de controle do módulo de Gestão de Clientes
+
+> Clicando nas Funções acede-se à página indicada
 ---
 
 **Código**
@@ -18,7 +20,7 @@ from io_terminal import imprime_lista
 ```
 nome_ficheiro_lista_de_clientes = "lista_de_clientes.pk"
 ```
-***Novo Cliente:***
+***Função: [Novo Cliente:](/docs/clientes/clientes_novo.md)***
 ```
 def cria_novo_cliente():
     """Função para registar os dados de um novo cliente
@@ -35,7 +37,7 @@ def cria_novo_cliente():
     return cliente
 ```
 
-***Imprime Cliente:***
+***Função: [Imprime Cliente:](/docs/clientes/clientes_imprime.md)***
 ```
 def imprime_lista_de_clientes(lista_de_clientes):
     """Imprime a lista de Clientes"""
