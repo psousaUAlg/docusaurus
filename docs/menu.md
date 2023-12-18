@@ -4,6 +4,6 @@ sidebar_position: 4
 
 # Oficina
 
-# [Clientes](./docs/category/clientes)
-# [Veículos](./docs/category/veiculos)
-# [Facturação](./docs/category/faturacao)
+# [Clientes](category/clientes)
+# [Veículos](category/veiculos)
+# [Facturação](category/faturacao)
