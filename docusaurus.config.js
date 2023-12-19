@@ -72,24 +72,9 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Clientes',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Veículos',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Faturação',
-          },
+          {to: '/docs/category/clientes', label: 'Clientes', position: 'left'},
+          {to: '/docs/category/veiculos', label: 'Veículos', position: 'left'},
+          {to: '/docs/category/faturas', label: 'Facturação', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
