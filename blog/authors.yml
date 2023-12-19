@@ -17,7 +17,13 @@ slorber:
   image_url: https://github.com/slorber.png
   
 psousa:
-  name: Paulo Alexandre Figueira de Sousa
+  name: a74558@ualg.pt
   title: Web App Owner
   url: https://github.com/psousaUAlg
-  image_url: https://github.com/slorber.png
+  image_url: https://github.com/psousaUAlg.png
+
+blequim76:
+  name: blequim76@gmail.com
+  title: Web App Contributor
+  url: https://github.com/blequim76
+  image_url: https://github.com/blequim76.png
