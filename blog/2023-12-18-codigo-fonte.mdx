@@ -1,0 +1,112 @@
+---
+slug: codigo-fonte
+title: Código Fonte
+authors: [psousa]
+tags: [codigo-fonte]
+---
+
+### Código Fonte de Gestão do Módulo de Clientes
+
+:::tip
+
+Clicando no nome das Funções acede-se à página indicada
+
+:::
+
+**Código:**
+
+***Importar as bibliotecas e relações com outros módulos:***
+```
+from io_terminal import imprime_lista
+```
+***Gravação dos dados:***
+```
+nome_ficheiro_lista_de_clientes = "lista_de_clientes.pk"
+```
+***Função: [Novo Cliente:](/docs/clientes/clientes_novo)***
+```
+def cria_novo_cliente():
+    """
+    Função para registar os dados de um novo cliente
+
+    :return: dicionario com o novo cliente, 
+    {"nome": <<nome>>, "nif": <<nif>>, ...}
+
+    """
+    
+    nome = input("nome? ")
+    nif = input("nif? ").upper()
+    ...
+    cliente = {"nome": nome,
+               "nif": nif}
+
+    return cliente
+```
+
+***Função: [Imprime Cliente:](/docs/clientes/clientes_imprime)***
+```
+def imprime_lista_de_clientes(lista_de_clientes):
+    """Imprime a lista de Clientes"""
+
+imprime_lista(cabecalho="Lista de Clientes", lista=lista_de_clientes)
+```
+---
+
+### Código Fonte de Gestão do Módulo de Viaturas
+
+:::tip
+
+Clicando no nome das Funções acede-se à página indicada
+
+:::
+
+
+**Código**
+
+***Importar as bibliotecas e relações com outros módulos:***
+```
+from io_terminal import imprime_lista
+```
+***Gravação dos dados:***
+```
+nome_ficheiro_lista_de_veiculos = "lista_de_veiculos.pk"
+```
+***Função: [Novo Veículo:](/docs/veiculos/veiculo_novo)***
+```
+def cria_novo_veiculo():
+    """
+    Pede ao utilizador para introduzir um novo veiculo
+
+    :return: dicionario com um veiculo na forma
+        {"marca": <<marca>>, "matricula": <<matricula>>, ...}
+
+    """
+
+    marca = input("marca? ")
+    matricula = input("matricula? ").upper()
+
+
+    veiculo = {"marca": marca,
+               "matricula": matricula}
+
+    return veiculo
+```
+
+***Função: [Imprime Veículo:](/docs/veiculos/veiculos_imprime)***
+```
+def imprime_lista_de_veiculos(lista_de_veiculos):
+    """Imprime a Lista de Veículos"""
+
+    imprime_lista(cabecalho="Lista de Veiculos", lista=lista_de_veiculos)
+```
+---
+
+### Código Fonte de Gestão do Módulo de Facturação
+
+:::tip
+
+Clicando no nome das Funções acede-se à página indicada
+
+:::
+
+**Código**
