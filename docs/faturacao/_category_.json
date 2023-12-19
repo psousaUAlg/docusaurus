@@ -1,0 +1,8 @@
+{
+  "label": "Facturas",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Módulo de Gestão de Facturação"
+  }
+}
