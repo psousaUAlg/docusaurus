@@ -43,7 +43,7 @@ def cria_novo_veiculo():
     return veiculo
 ```
 
-***Função: [Imprime Veículo:](/docs/veiculo/veiculos_imprime)***
+***Função: [Imprime Veículo:](/docs/veiculos/veiculos_imprime)***
 ```
 def imprime_lista_de_veiculos(lista_de_veiculos):
     """Imprime a Lista de Veículos"""
