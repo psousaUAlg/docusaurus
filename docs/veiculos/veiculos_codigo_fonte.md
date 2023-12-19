@@ -22,3 +22,23 @@ from io_terminal import imprime_lista
 ```
 nome_ficheiro_lista_de_veiculos = "lista_de_veiculos.pk"
 ```
+***Função: [Novo Veículo:](/docs/veiculos/veiculo_novo)***
+```
+def cria_novo_veiculo():
+    """
+    Pede ao utilizador para introduzir um novo veiculo
+
+    :return: dicionario com um veiculo na forma
+        {"marca": <<marca>>, "matricula": <<matricula>>, ...}
+        
+    """
+
+    marca = input("marca? ")
+    matricula = input("matricula? ").upper()
+
+
+    veiculo = {"marca": marca,
+               "matricula": matricula}
+
+    return veiculo
+```
