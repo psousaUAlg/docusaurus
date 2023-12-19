@@ -30,7 +30,7 @@ def cria_novo_veiculo():
 
     :return: dicionario com um veiculo na forma
         {"marca": <<marca>>, "matricula": <<matricula>>, ...}
-        
+
     """
 
     marca = input("marca? ")
@@ -41,4 +41,12 @@ def cria_novo_veiculo():
                "matricula": matricula}
 
     return veiculo
+```
+
+***Função: [Imprime Veículo:](/docs/veiculo/veiculos_imprime)***
+```
+def imprime_lista_de_veiculos(lista_de_veiculos):
+    """Imprime a Lista de Veículos"""
+
+    imprime_lista(cabecalho="Lista de Veiculos", lista=lista_de_veiculos)
 ```
