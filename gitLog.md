@@ -1,3 +1,146 @@
+commit 8f8029a43badfa966f5d40e5f166db8cf4f7c7da
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:51:39 2023 +0000
+
+    Como gerente quero aceder à faturação através do menu da página Web principal
+    Fixes #4
+
+commit 15ac63606acd6cafc7e04653e5d83c1f6927cfc5
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:45:19 2023 +0000
+
+    Recurso às ordens de serviço criado
+
+commit 1f4ceac155e9bbb03d306cb802958ced8b50e3a3
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:44:33 2023 +0000
+
+    Controlador de páginas atualizado
+
+commit 15964f29318234b3d43de1727532e7540ae5a8a4
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:31:26 2023 +0000
+
+    Como gerente quero aceder à faturação através do menu da página Web principal
+    Fixes #4
+
+commit ee86fcfef5cb018ed25a3443f37cdaa28a8c4013
+Merge: 150a7e7 0209487
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:21:05 2023 +0000
+
+    Merge pull request #22 from psousaUAlg:blog
+    
+    Apagados ficheiros duplicados
+
+commit 0209487288f0ae7d3f5ce77a33708fa0b2cae2bd
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:20:29 2023 +0000
+
+    Apagadas ficheiros duplicados
+
+commit 150a7e7e54af4988651cba11c113e995f0b2867c
+Merge: 7f77953 379b9d3
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:17:47 2023 +0000
+
+    Merge pull request #21 from psousaUAlg:blog
+    
+    MDX exemplo apagado
+
+commit 379b9d3394a5738f7bb0e08f7c533985f716cd1a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:17:20 2023 +0000
+
+    MDX exemplo apagado
+
+commit 7f7795382b1ed8a7fd1d57e605118cf2356f9c0e
+Merge: e4b3579 4eace34
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:15:16 2023 +0000
+
+    Merge pull request #20 from psousaUAlg:blog
+    
+    Referencias aos autores atualizadas
+
+commit 4eace34a4c1873d1f5f2093b79f74b7a0d0d8c60
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:14:48 2023 +0000
+
+    Autores atualizados
+
+commit 13ece42e3f892f918994ee12bb954a94ddbd3519
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:13:30 2023 +0000
+
+    Referencias aos autores atualizadas
+
+commit e4b3579e3f489ab42a403bb75f73990d228d5d12
+Merge: 9b15866 d49bf7f
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:05:39 2023 +0000
+
+    Merge pull request #19 from psousaUAlg:blog
+    
+    Blog
+
+commit d49bf7f66b4aa5a75b96a445ab7369a62b4456a6
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:03:58 2023 +0000
+
+    Blogs exemplo apagados
+
+commit 6bc8b0275d164229c7a5c29a08a3690a3d722c7d
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:02:53 2023 +0000
+
+    Código Fonte das páginas Web criado em forma de blog em /blog
+
+commit 9b1586637bbb29ad03380e2cc83dfca5fd4a4a56
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:44:28 2023 +0000
+
+    Corrigida identação de psousa:
+
+commit 2cd77b827104552594f26e0dfebc428562e58f52
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:41:37 2023 +0000
+
+    Adcionado a referencia a Paulo Sousa em 'authors.yml
+
+commit 0c9e6027e0fcb29f402ae076e17e6edf07e13867
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:40:50 2023 +0000
+
+    Adicionado blog de teste
+
+commit 96f6d2708b66bd1e8fb15815366dc6ce0dcd49d4
+Merge: 01a11d0 5e222ac
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:31:02 2023 +0000
+
+    Merge pull request #18 from psousaUAlg:menu
+    
+    Links do Menu principal corrigidos
+
+commit 5e222ac285399b5bf227d863e9d392958e4bd4d4
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:29:56 2023 +0000
+
+    Link a veiculos corrigido
+
+commit 7f472347eca6c7f455930004f475eeff59673eb0
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 20:28:50 2023 +0000
+
+    Links da barra do menu principal corrigidos
+
+commit 01a11d0f2a5185504e0b9cb9df5ab2e02eb361b3
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 12:10:54 2023 +0000
+
+    Criado ficheiro log do git 'gitLog.md'
+
 commit 323aee89b9fd5873faf4ca3d3c8701f48ccad745
 Author: psousaUAlg <a74558@ualg.pt>
 Date:   Tue Dec 19 11:54:13 2023 +0000
