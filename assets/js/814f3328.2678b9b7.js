@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"C\xf3digo Fonte","permalink":"/docusaurus/blog/codigo-fonte","unlisted":false},{"title":"Welcome","permalink":"/docusaurus/blog/welcome","unlisted":false}]}')}}]);
