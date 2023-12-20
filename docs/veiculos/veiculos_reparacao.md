@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 
-# Reparações - Em Curso
+# Viaturas - Reparações Em Curso
 
 ## Lista as ordens de serviço abertas
 
