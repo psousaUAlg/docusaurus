@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[3303],{379:s=>{s.exports=JSON.parse('{"label":"codigo-fonte","permalink":"/docusaurus/blog/tags/codigo-fonte","allTagsPath":"/docusaurus/blog/tags","count":1,"unlisted":false}')}}]);
