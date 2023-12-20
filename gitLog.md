@@ -1,3 +1,175 @@
+commit ef2bb192d92e26be525061a8f103cd523238bf7f
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:03:13 2023 +0000
+
+    Adcionada documentação gerada pelo Doxygen [idem TP2]
+
+commit 4a0e4e71997a2fe3ff1b45c1f1c8db52e07d8bdc
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 13:57:50 2023 +0000
+
+    Docusaurus.config.js preparado para deployment
+
+commit de3d6d89b1276f83e9f7f71ba06af810389e1be0
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 13:35:09 2023 +0000
+
+    Docusaurus.config.js preparado para deployment
+
+commit ad17b092749cd892eee427bf6ddbccfe0de3fdaa
+Merge: b8b3da1 0894a1d
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 13:21:24 2023 +0000
+
+    Merge pull request #29 from psousaUAlg:menu
+    
+    Objetos do Menu adaptados ao modo de funcionar da página
+
+commit 0894a1d5b42a70d2713ff0a1c84b49492a988e13
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 13:19:33 2023 +0000
+
+    Corrigidos links às páginas
+
+commit c6678e464a8ad4a8017c5594f75b70948d410590
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 13:18:46 2023 +0000
+
+    Menu de acesso estilizado
+
+commit fa1a460651e6cdea6abe36fa9ff727b45289717d
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 13:18:01 2023 +0000
+
+    Menu de acesso estilizado
+
+commit b8b3da152bf0f596c34afb9cc100b247da26fe04
+Merge: 1cba772 56d2bc1
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 12:23:23 2023 +0000
+
+    Merge pull request #28 from psousaUAlg:blog
+    
+    Código Fonte do módulo Faturação adicionado
+
+commit 56d2bc157edfceade7d69d6910e62ff8590a3575
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 12:22:53 2023 +0000
+
+    Código Fonte do módulo Faturação adicionado
+
+commit 1cba77282082e1814de6ce25ba6683a5431acabf
+Merge: 7905e4a dd024cb
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 11:55:09 2023 +0000
+
+    Merge pull request #27 from psousaUAlg:blequim76/issue7
+    
+    alterada a identificação de página
+
+commit dd024cb524e1aafa816793e60daf24c1afd7293b
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:54:20 2023 +0000
+
+    alterada a identificação de página
+
+commit 7905e4afed1eb0002c0281fe3c3014dbccea6d7b
+Merge: 4147164 5dd89c1
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 11:52:09 2023 +0000
+
+    Merge pull request #26 from psousaUAlg:blequim76/issue7
+    
+    Páginas do módulo Faturação concluídas
+    @fatura_veiculo_pronto
+    @faturas_veiculos_prontos
+    @faturacao_imprime
+
+commit 5dd89c1b74b10f60b5f7f0f24e2264dfd345fa8c
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:45:53 2023 +0000
+
+    Página de listagem de Faturas pagas/em pagamento concluída
+
+commit fba5c899e378b5da5fde95355100c963209a29a6
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:34:59 2023 +0000
+
+    Lista de serviços para pagamento concluída
+
+commit f95af7eb33c497f893dc8ec453f706541c047462
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:34:15 2023 +0000
+
+    Lista de serviços para pagamento concluída
+
+commit 954c0acc405dd92f009bf9300b657bcb4e870e4a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:32:28 2023 +0000
+
+    Ícones movidos para docs/faturas/img/
+
+commit 426647fce486305322a4a29099eb36b875d18bde
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:29:12 2023 +0000
+
+    Lista de ordens de serviço concluídas para pagamento
+
+commit 9f6b2b8d91e315c4a8549c274b72b748f1d321d0
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 11:25:39 2023 +0000
+
+    Adicionadis icones para o método de pagamento das faturas
+
+commit 03b2258914e1a3622912c36f65f2ef811db5a6a7
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 10:48:45 2023 +0000
+
+    Criada a página veiculos reparados para faturacao
+
+commit 4147164ff0f41ed6d85f4086e60a4cff4d68b1e5
+Merge: 7964d99 e234403
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 10:28:16 2023 +0000
+
+    Merge pull request #25 from psousaUAlg:psousaUAlg/issue4
+    
+    Corrigidas as indexações às páginas
+
+commit e2344034196b86d0279f6296b8704f41311796f2
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 10:27:44 2023 +0000
+
+    Corrigidas as indexações às páginas
+
+commit 7964d99d3f716e99e4d82f009c6d73d44b0297fc
+Merge: e5ed0b8 312d219
+Author: Blequim <145615013+blequim76@users.noreply.github.com>
+Date:   Wed Dec 20 10:25:32 2023 +0000
+
+    Merge pull request #24 from psousaUAlg:psousaUAlg/issue4
+    
+    Ficheiros indexados à pagina correcta
+
+commit 312d219003f9294437c35ac4b08aeb017140d587
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 10:24:21 2023 +0000
+
+    Indexado à página correta
+
+commit ab5ee0d2eb41abda14a5ad50103bff92a0e56af5
+Merge: e5ed0b8 8f8029a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 09:27:05 2023 +0000
+
+    Merge branch 'psousaUAlg/issue4' of https://github.com/psousaUAlg/docusaurus into psousaUAlg/issue4
+
+commit e5ed0b89102a8d01063799734e3164f411fcf34f
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:56:24 2023 +0000
+
+    gitLog.md atualizado
+
 commit 8f8029a43badfa966f5d40e5f166db8cf4f7c7da
 Author: psousaUAlg <a74558@ualg.pt>
 Date:   Tue Dec 19 21:51:39 2023 +0000
@@ -16,6 +188,15 @@ Author: psousaUAlg <a74558@ualg.pt>
 Date:   Tue Dec 19 21:44:33 2023 +0000
 
     Controlador de páginas atualizado
+
+commit f15e37d164780c6028a85a86c57043f3d9e79504
+Merge: ee86fcf 15964f2
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Tue Dec 19 21:32:29 2023 +0000
+
+    Merge pull request #23 from psousaUAlg:psousaUAlg/issue4
+    
+    Como gerente quero aceder à faturação através do menu da página Web principal
 
 commit 15964f29318234b3d43de1727532e7540ae5a8a4
 Author: psousaUAlg <a74558@ualg.pt>
