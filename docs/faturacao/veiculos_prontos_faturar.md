@@ -14,7 +14,7 @@ Foi feita lavagem e aspirado todo o interior
 
 :::tip
 | Data |Matrícula |Marca |Proprietário |Atual |
-|--|:--:|:--:|:--|--:|O
+|--|:--:|:--:|:--|--:|
 |2023-12-18 | 11-BB-11|BMW |Paulo B|1.375,35€|
 :::
 
