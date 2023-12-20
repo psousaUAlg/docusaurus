@@ -71,6 +71,7 @@ from io_terminal import imprime_lista
 ```
 nome_ficheiro_lista_de_veiculos = "lista_de_veiculos.pk"
 ```
+
 ***Função: [Novo Veículo:](/docs/veiculos/veiculo_novo)***
 ```
 def cria_novo_veiculo():
@@ -110,3 +111,53 @@ Clicando no nome das Funções acede-se à página indicada
 :::
 
 **Código**
+
+***Importar as bibliotecas e relações com outros módulos:***
+```
+from datetime import date
+from io_terminal import imprime_lista, pergunta_id
+```
+***Gravação dos dados:***
+```
+nome_ficheiro_lista_de_faturas = "lista_de_faturas.pk"
+```
+
+***Função: [Faturar Veículo Pronto:](/docs/faturacao/veiculos_prontos_faturar)***
+```
+def cria_nova_fatura(lista_de_clientes, lista_de_veiculos):
+    """Pede ao utilizador para introduzir os dados de uma nova fatura
+
+    :return: dicionario com uma fatura, na forma
+        {"cliente": <<id_cliente>>, "veiculo": <<id_veiculo>>, "data": <<data>>, ...}
+    """
+
+    id_cliente = pergunta_id(questao="Qual o id do cliente?", lista=lista_de_clientes, mostra_lista=True)
+    id_veiculo = pergunta_id(questao="Qual o id do veiculo?", lista=lista_de_veiculos, mostra_lista=True)
+
+    # TODO: Pedir o resto dos dados da fatura, e não esquecer de os guardar no dicionario
+    # ...
+
+    fatura = {"cliente": id_cliente,
+              "veiculo": id_veiculo,
+              "data": date.today()}
+
+    return fatura
+```
+
+***Função: [Imprime Factura:](/docs/faturacao/fatura_veiculo_pronto)***
+```
+def imprime_fatura(veiculos_prontos):
+    """Imprime a Lista de Veículos prontos a faturar """
+
+    imprime_lista(cabecalho="Lista de Veiculos", lista=lista_de_veiculos)
+```
+
+
+***Função: [Imprime Facturas:](/docs/faturacao/faturacao_imprime)***
+```
+def imprime_lista_de_veiculos(lista_de_veiculos):
+    """Imprime a Lista de Veículos"""
+
+    imprime_lista(cabecalho="Lista de Veiculos", lista=lista_de_veiculos)
+```
+---
