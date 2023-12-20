@@ -2,23 +2,24 @@
 sidebar_position: 1
 ---
 
-# Viaturas - Reparações Em Curso
+# Reparações Concluídas
 
-## Lista as ordens de serviço abertas
+## Lista as ordens de serviço concluídas
 
-**Ordem de serviço: #2023.01.FF.20**
+**Ordem de serviço: #2023.01.FF.19**
 
-:::warning
-A Faturação é feita à Seguradora - XYZ
+:::note
+Foi feita lavagem e aspirado todo o interior
 :::
 
 :::tip
 | Data |Matrícula |Marca |Proprietário |Atual |
 |--|:--:|:--:|:--|--:|
-|2023-12-18 | 00-AA-00| Mercedes |Paulo A|425,00€|
-
-
-:::note
-Avisar o proprietário que o preço da XXXX para o YYYY é de € e não é coberto pela seguradora.
-
+|2023-12-18 | 11-BB-11|BMW |Paulo B|1.375,35€|
 :::
+
+## Pagamento
+
+|Multibanco|MbWay|Cartão Crédito|
+|:--:|:--:|:--:|
+|![MB](img/Multibanco.png)| ![MbWay](img/MBWay.png)| ![Credito](img/MasterCard.png)|
