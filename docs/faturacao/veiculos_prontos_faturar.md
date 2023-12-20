@@ -22,4 +22,4 @@ Foi feita lavagem e aspirado todo o interior
 
 |Multibanco|MbWay|Cartão Crédito|
 |:--:|:--:|:--:|
-|![MB](img/Multibanco.png)| ![MbWay](img/MBWay.png)| ![Credito](img/MasterCard.png)|
+|![MB](img/Multibanco.png)| ![MbWay](img/MBWay.png)| ![Credito](img/MasterCard.png)![Credito](img/Visa.jpg)|
