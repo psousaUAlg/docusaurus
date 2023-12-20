@@ -75,7 +75,7 @@ const config = {
         items: [
           {to: '/docs/category/clientes', label: 'Clientes', position: 'left'},
           {to: '/docs/category/veiculos', label: 'Veículos', position: 'left'},
-          {to: '/docs/category/faturas', label: 'Facturação', position: 'left'},
+          {to: '/docs/category/faturacao', label: 'Facturação', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
