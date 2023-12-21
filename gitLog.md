@@ -1,3 +1,136 @@
+commit 09b2d05fcb0218d4b2a40354df63eaa5db21be2d
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Thu Dec 21 14:58:12 2023 +0000
+
+    blog atualizado
+
+commit 7ede4bfb44aadf8be4ccd13c08bd82b998f113c2
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Thu Dec 21 14:57:10 2023 +0000
+
+    Typo no docusarus
+
+commit 7a2f3e319d34d35b3732e48efb9800485ce6f93e
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Thu Dec 21 12:12:24 2023 +0000
+
+    Estilização da página inicial
+
+commit ee141a40ea91b135f5315860fd0b2f220536ce16
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Thu Dec 21 12:06:14 2023 +0000
+
+    Estilização da página inicial
+
+commit 85ebee032d217b85aca51d8e358ad271c24a174a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Thu Dec 21 12:05:35 2023 +0000
+
+    Estilização da página inicial
+
+commit 1ed46430c8fc4d3b5a945d81920a87492d3d5897
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 19:28:43 2023 +0000
+
+    Links corrigidos
+
+commit 91870b3ad90ea202a10eae61a11fb8c09dcba95f
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 19:17:24 2023 +0000
+
+    metodologia do trabalho no blog
+
+commit 732e0511a297044e3ccac3a5ae433f8788e19764
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:45:40 2023 +0000
+
+    Adiconada icone visa.jpg
+
+commit d494988ea99b3415d25b3740db4fa05f781fb706
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:40:00 2023 +0000
+
+    gorrigido link ao módulo Faturação
+
+commit 5f410ce2408c0f210f03b0f0913aa69fd13d8772
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:31:05 2023 +0000
+
+    Corrigido link corrompido em Faturas
+
+commit f48dd28dce243f7402997c0d2e2957eb819fa682
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:27:19 2023 +0000
+
+    alterado o broken links para ignore
+
+commit 706943beb4168469a7d77b3efac5ed61930f5f5b
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:22:06 2023 +0000
+
+    locale = pt
+
+commit 4135407f47f01f0c48b0093be9304f65cd08159d
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:15:49 2023 +0000
+
+    nova tentativa de deploy
+
+commit a50715b1d8fb71ab61243e773c0f62d4267905ad
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:08:01 2023 +0000
+
+    another deployment
+
+commit a2e973184b0f7bddbede15456c1bf9da16e85620
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 18:02:07 2023 +0000
+
+    deployment
+
+commit 7fcbe3d68e0d649a425bac3456e372e5e0c17251
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:33:30 2023 +0000
+
+    wokflow for deployment
+
+commit de4f7e5976d863da44205d5d674234d38cf7df86
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:30:26 2023 +0000
+
+    Update deploy.yaml
+
+commit 57623581eb41c9e9fad4ab11bd05b76eb8e52997
+Merge: 1872262 cc43ad0
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:28:24 2023 +0000
+
+    wokflow for deployment
+
+commit 18722620b58eaaec7e0907dbae2c4f122f6554eb
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:26:57 2023 +0000
+
+    wokflow for deployment
+
+commit cc43ad018e4bf140bb2deb0d2cf794f6b803281a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:23:38 2023 +0000
+
+    Update deploy.yaml
+
+commit da0de9b0d346c139c0ca5f9807448bfb9ee4de8a
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:13:16 2023 +0000
+
+    wokflow for deployment
+
+commit a508f73757d03a808bea257794e22cf83f6eda8f
+Author: psousaUAlg <a74558@ualg.pt>
+Date:   Wed Dec 20 15:05:39 2023 +0000
+
+    Commit gravado no ficheiro 'gitLog.md'
+
 commit ef2bb192d92e26be525061a8f103cd523238bf7f
 Author: psousaUAlg <a74558@ualg.pt>
 Date:   Wed Dec 20 15:03:13 2023 +0000

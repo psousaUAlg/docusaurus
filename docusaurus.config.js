@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oficina "A Baratinha"',
-  tagline: 'Paulo Sousa - TP3 Docusauros',
+  tagline: 'Paulo Sousa - TP3 Docusaurus',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
