@@ -70,7 +70,7 @@ const config = {
         title: 'Principal',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/garage-icon.svg',
         },
         items: [
           {to: '/docs/category/clientes', label: 'Clientes', position: 'left'},
