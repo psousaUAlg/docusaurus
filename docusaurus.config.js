@@ -88,11 +88,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Repositório',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'psousaUAlg',
+                href: 'https://github.com/psousaUAlg/docusaurus',
               },
             ],
           },
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Paulo Sousa Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
